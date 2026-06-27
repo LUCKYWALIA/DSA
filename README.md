@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/LUCKYWALIA/DSA/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/LUCKYWALIA/DSA/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/LUCKYWALIA/DSA/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/LUCKYWALIA/DSA/tree/master/0018-4sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
