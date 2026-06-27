@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/LUCKYWALIA/DSA/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
