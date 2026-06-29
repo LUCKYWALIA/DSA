@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/LUCKYWALIA/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/LUCKYWALIA/DSA/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/LUCKYWALIA/DSA/tree/master/0414-third-maximum-number) |
 ## String Matching
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/LUCKYWALIA/DSA/tree/master/0414-third-maximum-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
