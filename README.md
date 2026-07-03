@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LUCKYWALIA/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/LUCKYWALIA/DSA/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LUCKYWALIA/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/LUCKYWALIA/DSA/tree/master/0443-string-compression) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LUCKYWALIA/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
