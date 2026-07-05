@@ -95,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/LUCKYWALIA/DSA/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LUCKYWALIA/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/LUCKYWALIA/DSA/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
