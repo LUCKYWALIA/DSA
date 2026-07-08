@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/LUCKYWALIA/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LUCKYWALIA/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/LUCKYWALIA/DSA/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/LUCKYWALIA/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/LUCKYWALIA/DSA/tree/master/0796-rotate-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LUCKYWALIA/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LUCKYWALIA/DSA/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
