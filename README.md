@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/LUCKYWALIA/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/LUCKYWALIA/DSA/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LUCKYWALIA/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LUCKYWALIA/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/LUCKYWALIA/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LUCKYWALIA/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/LUCKYWALIA/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1903-largest-odd-number-in-string](https://github.com/LUCKYWALIA/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
