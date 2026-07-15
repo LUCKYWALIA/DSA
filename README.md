@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/LUCKYWALIA/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LUCKYWALIA/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/LUCKYWALIA/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/LUCKYWALIA/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/LUCKYWALIA/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/LUCKYWALIA/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1903-largest-odd-number-in-string](https://github.com/LUCKYWALIA/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/LUCKYWALIA/DSA/tree/master/0152-maximum-product-subarray) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
