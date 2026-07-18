@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/LUCKYWALIA/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/LUCKYWALIA/DSA/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/LUCKYWALIA/DSA/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -221,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/LUCKYWALIA/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/LUCKYWALIA/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
