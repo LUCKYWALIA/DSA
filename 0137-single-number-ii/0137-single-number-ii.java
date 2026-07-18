@@ -1,10 +1,16 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Arrays.sort(nums);
+      int ans=0;
 
-for(int i=1;i<nums.length;i+=3){
-    if(nums[i]!=nums[i-1]) return nums[i-1];
+for(int bitidx=0;bitidx<32;bitidx++){
+    int cnt=0;
+for(int num:nums){
+    if((num&(1<<bitidx))!=0) cnt++;
 }
-return nums[nums.length-1];
+if(cnt%3!=0) ans=ans|(1<<bitidx);
+}
+
+
+      return ans;  
     }
 }
