@@ -1,0 +1,32 @@
+class Solution {
+    public int divide(int dividend, int divisor) {
+        
+if(dividend==divisor) return 1;
+
+boolean sign=true;
+
+if(dividend>=0 && divisor<0) sign=false;
+if(dividend<=0 && divisor>0) sign=false;
+
+long n=dividend;
+long d=divisor;
+n=Math.abs(n);
+d=Math.abs(d);
+
+    long ans=0; //quitent
+while(n>=d){
+    int cnt=0;
+
+while(n>=(d<<(cnt+1))){
+cnt++;
+}
+ans+=1<<cnt;
+n-=(d<<cnt);
+if(ans==(1<<31) && sign==true) return Integer.MAX_VALUE;
+if(ans==(1<<31) && sign==false) return Integer.MIN_VALUE;
+}
+
+return sign?(int)ans:(int)(-1*ans);
+
+    }
+}
