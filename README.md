@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LUCKYWALIA/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/LUCKYWALIA/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/LUCKYWALIA/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/LUCKYWALIA/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/LUCKYWALIA/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/LUCKYWALIA/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/LUCKYWALIA/DSA/tree/master/0414-third-maximum-number) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LUCKYWALIA/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/LUCKYWALIA/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/LUCKYWALIA/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0283-move-zeroes) |
