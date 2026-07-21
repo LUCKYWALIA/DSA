@@ -7,7 +7,7 @@ if(len%i==0){
     String sub=s.substring(0,i);
     StringBuilder st=new StringBuilder();
 
-    for(int j=1;j<=len/i;j++){
+    for(int j=0;j<len/i;j++){
 st.append(sub);
     }
 
