@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/LUCKYWALIA/DSA/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1025-divisor-game](https://github.com/LUCKYWALIA/DSA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1903-largest-odd-number-in-string](https://github.com/LUCKYWALIA/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/LUCKYWALIA/DSA/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/LUCKYWALIA/DSA/tree/master/1025-divisor-game) |
 ## Geometry
 |  |
 | ------- |
@@ -249,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/LUCKYWALIA/DSA/tree/master/0078-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/LUCKYWALIA/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/LUCKYWALIA/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
