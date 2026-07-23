@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/LUCKYWALIA/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LUCKYWALIA/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/LUCKYWALIA/DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/LUCKYWALIA/DSA/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LUCKYWALIA/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/LUCKYWALIA/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/LUCKYWALIA/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/LUCKYWALIA/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/LUCKYWALIA/DSA/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/LUCKYWALIA/DSA/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/LUCKYWALIA/DSA/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/LUCKYWALIA/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
