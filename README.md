@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/LUCKYWALIA/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LUCKYWALIA/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LUCKYWALIA/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/LUCKYWALIA/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LUCKYWALIA/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/LUCKYWALIA/DSA/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/LUCKYWALIA/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1534-count-good-triplets](https://github.com/LUCKYWALIA/DSA/tree/master/1534-count-good-triplets) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LUCKYWALIA/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LUCKYWALIA/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
