@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/LUCKYWALIA/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/LUCKYWALIA/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/LUCKYWALIA/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LUCKYWALIA/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/LUCKYWALIA/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/LUCKYWALIA/DSA/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/LUCKYWALIA/DSA/tree/master/0622-design-circular-queue) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
@@ -237,10 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LUCKYWALIA/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LUCKYWALIA/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LUCKYWALIA/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -360,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LUCKYWALIA/DSA/tree/master/0020-valid-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
