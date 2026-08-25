@@ -398,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/LUCKYWALIA/DSA/tree/master/0547-number-of-provinces) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LUCKYWALIA/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
