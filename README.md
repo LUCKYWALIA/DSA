@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LUCKYWALIA/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/LUCKYWALIA/DSA/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/LUCKYWALIA/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LUCKYWALIA/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/LUCKYWALIA/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/LUCKYWALIA/DSA/tree/master/0994-rotting-oranges) |
 ## Counting
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/LUCKYWALIA/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/LUCKYWALIA/DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/LUCKYWALIA/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
