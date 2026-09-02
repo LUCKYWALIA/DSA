@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LUCKYWALIA/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/LUCKYWALIA/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/LUCKYWALIA/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/LUCKYWALIA/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/LUCKYWALIA/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/LUCKYWALIA/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/LUCKYWALIA/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LUCKYWALIA/DSA/tree/master/0994-rotting-oranges) |
 ## Counting
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LUCKYWALIA/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/LUCKYWALIA/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LUCKYWALIA/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LUCKYWALIA/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/LUCKYWALIA/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/LUCKYWALIA/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/LUCKYWALIA/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/LUCKYWALIA/DSA/tree/master/0733-flood-fill) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LUCKYWALIA/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/LUCKYWALIA/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
