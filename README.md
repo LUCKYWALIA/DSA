@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LUCKYWALIA/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/LUCKYWALIA/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/LUCKYWALIA/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/LUCKYWALIA/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LUCKYWALIA/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/LUCKYWALIA/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/LUCKYWALIA/DSA/tree/master/0152-maximum-product-subarray) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LUCKYWALIA/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/LUCKYWALIA/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/LUCKYWALIA/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LUCKYWALIA/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LUCKYWALIA/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/LUCKYWALIA/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/LUCKYWALIA/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LUCKYWALIA/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
