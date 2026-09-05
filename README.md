@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/LUCKYWALIA/DSA/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LUCKYWALIA/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/LUCKYWALIA/DSA/tree/master/3731-find-missing-elements) |
 ## String
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LUCKYWALIA/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/LUCKYWALIA/DSA/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/LUCKYWALIA/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/LUCKYWALIA/DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/LUCKYWALIA/DSA/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/LUCKYWALIA/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LUCKYWALIA/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/LUCKYWALIA/DSA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1512-number-of-good-pairs](https://github.com/LUCKYWALIA/DSA/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/LUCKYWALIA/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LUCKYWALIA/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/LUCKYWALIA/DSA/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
