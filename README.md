@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LUCKYWALIA/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/LUCKYWALIA/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/LUCKYWALIA/DSA/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/LUCKYWALIA/DSA/tree/master/1512-number-of-good-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/LUCKYWALIA/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LUCKYWALIA/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/LUCKYWALIA/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/LUCKYWALIA/DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/LUCKYWALIA/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LUCKYWALIA/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/LUCKYWALIA/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LUCKYWALIA/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/LUCKYWALIA/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/LUCKYWALIA/DSA/tree/master/0904-fruit-into-baskets) |
