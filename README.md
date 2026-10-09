@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/LUCKYWALIA/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LUCKYWALIA/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/LUCKYWALIA/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1029-two-city-scheduling](https://github.com/LUCKYWALIA/DSA/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LUCKYWALIA/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/LUCKYWALIA/DSA/tree/master/3731-find-missing-elements) |
 ## String Matching
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/LUCKYWALIA/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/LUCKYWALIA/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LUCKYWALIA/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1029-two-city-scheduling](https://github.com/LUCKYWALIA/DSA/tree/master/1029-two-city-scheduling) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LUCKYWALIA/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/LUCKYWALIA/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/LUCKYWALIA/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/LUCKYWALIA/DSA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/LUCKYWALIA/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/LUCKYWALIA/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1029-two-city-scheduling](https://github.com/LUCKYWALIA/DSA/tree/master/1029-two-city-scheduling) |
 | [1903-largest-odd-number-in-string](https://github.com/LUCKYWALIA/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -554,4 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/LUCKYWALIA/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/LUCKYWALIA/DSA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/LUCKYWALIA/DSA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
