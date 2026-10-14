@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/LUCKYWALIA/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/LUCKYWALIA/DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/LUCKYWALIA/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/LUCKYWALIA/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0229-majority-element-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LUCKYWALIA/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/LUCKYWALIA/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LUCKYWALIA/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/LUCKYWALIA/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/LUCKYWALIA/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/LUCKYWALIA/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LUCKYWALIA/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -581,5 +583,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/LUCKYWALIA/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/LUCKYWALIA/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
