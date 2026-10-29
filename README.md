@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/LUCKYWALIA/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LUCKYWALIA/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LUCKYWALIA/DSA/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/LUCKYWALIA/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/LUCKYWALIA/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LUCKYWALIA/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/LUCKYWALIA/DSA/tree/master/0056-merge-intervals) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/LUCKYWALIA/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/LUCKYWALIA/DSA/tree/master/0078-subsets) |
 ## Brainteaser
 |  |
