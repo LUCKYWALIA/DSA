@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/LUCKYWALIA/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/LUCKYWALIA/DSA/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LUCKYWALIA/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/LUCKYWALIA/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/LUCKYWALIA/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LUCKYWALIA/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LUCKYWALIA/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/LUCKYWALIA/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/LUCKYWALIA/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/LUCKYWALIA/DSA/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LUCKYWALIA/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/LUCKYWALIA/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -602,8 +605,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LUCKYWALIA/DSA/tree/master/0207-course-schedule) |
+| [2360-longest-cycle-in-a-graph](https://github.com/LUCKYWALIA/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LUCKYWALIA/DSA/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/LUCKYWALIA/DSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/LUCKYWALIA/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
